@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "This app displays the current temperature in any desired city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: No test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiliavanderwerf/nodejs-weather-app.git"
+  },
+  "author": "Emilia Vanderwerf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emiliavanderwerf/nodejs-weather-app/issues"
+  },
+  "homepage": "https://github.com/emiliavanderwerf/nodejs-weather-app#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
